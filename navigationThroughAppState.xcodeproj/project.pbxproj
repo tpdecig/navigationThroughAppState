@@ -14,6 +14,7 @@
 		8C4161E72402B99F00D0AB7D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C4161E62402B99F00D0AB7D /* Preview Assets.xcassets */; };
 		8C4161EA2402B99F00D0AB7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C4161E82402B99F00D0AB7D /* LaunchScreen.storyboard */; };
 		8C4161F22402BAB200D0AB7D /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4161F12402BAB200D0AB7D /* AppState.swift */; };
+		8C4161F42402CC9E00D0AB7D /* ChangeViewState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4161F32402CC9E00D0AB7D /* ChangeViewState.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8C4161E92402B99F00D0AB7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C4161EB2402B99F00D0AB7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8C4161F12402BAB200D0AB7D /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
+		8C4161F32402CC9E00D0AB7D /* ChangeViewState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeViewState.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				8C4161F12402BAB200D0AB7D /* AppState.swift */,
 				8C4161DF2402B99D00D0AB7D /* SceneDelegate.swift */,
 				8C4161E12402B99D00D0AB7D /* ContentView.swift */,
+				8C4161F32402CC9E00D0AB7D /* ChangeViewState.swift */,
 				8C4161E32402B99F00D0AB7D /* Assets.xcassets */,
 				8C4161E82402B99F00D0AB7D /* LaunchScreen.storyboard */,
 				8C4161EB2402B99F00D0AB7D /* Info.plist */,
@@ -152,6 +155,7 @@
 				8C4161DE2402B99D00D0AB7D /* AppDelegate.swift in Sources */,
 				8C4161E02402B99D00D0AB7D /* SceneDelegate.swift in Sources */,
 				8C4161E22402B99D00D0AB7D /* ContentView.swift in Sources */,
+				8C4161F42402CC9E00D0AB7D /* ChangeViewState.swift in Sources */,
 				8C4161F22402BAB200D0AB7D /* AppState.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
